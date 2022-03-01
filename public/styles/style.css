@@ -1,0 +1,26 @@
+h1
+{
+    text-align: center;
+}
+.main-container 
+{
+    height: 100vh;
+    background-color: #34495e;
+}
+.login-box 
+{
+    padding: 10px;
+    background-color: white;
+    width: 360px;
+}
+.btn-custom
+{
+ height: 60px;
+ width: 100%;
+}
+.link
+{
+    display: block;
+    text-align: center;
+    margin-top: 6px;
+}
